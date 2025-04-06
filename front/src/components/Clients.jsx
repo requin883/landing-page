@@ -2,7 +2,7 @@ export const Clients = () => {
   return (
     <>
       <section className="py-12 clients grid place-items-center w-screen">
-        <h2 className="text-[2rem] font-bold">Our Clients</h2>
+        <h2 className="text-[2rem] font-bold text-dark-gray">Our Clients</h2>
         <p className="text-neutral-gray text-[1rem]">We have been working with some Fortune 500+ clients</p>
         <div className="grid md:grid-flow-col py-10 place-items-center w-full">
           <img src="/Logo.jpg" alt="" />

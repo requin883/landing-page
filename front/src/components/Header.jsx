@@ -5,7 +5,7 @@ export const Header = () => {
       <header className="fixed top-0 left-0 right-0 w-full z-10">
         <nav className="flex justify-between items-center px-[144px] py-4">
           <div className="logo flex items-center space-x-2">
-            <img src="./public/main_logo_white.png" alt="Logo" />
+            <img src="/main_logo_white.png" alt="Logo" />
             <p className="font-bold text-[1.5em]">Nextcent</p>
           </div>
           <ul className="space-x-8 hidden lg:flex">
